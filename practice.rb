@@ -1,2 +1,2 @@
 puts "Hello!"
-print "Hello"
+printss "Hello"
